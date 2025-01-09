@@ -1,18 +1,5 @@
-# Wanderlust - Your Ultimate Travel Blog 🌍✈️
 
-WanderLust is a simple MERN travel blog website ✈ This project is aimed to help people to contribute in open source, upskill in react and also master git.
-
-![Preview Image](https://github.com/krishnaacharyaa/wanderlust/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
-#
-
-# Wanderlust Mega Project End to End Implementation
-
-### In this demo, we will see how to deploy an end to end three tier MERN stack application on EKS cluster.
-#
-### <mark>Project Deployment Flow:</mark>
-<img src="https://github.com/DevMadhup/Wanderlust-Mega-Project/blob/main/Assets/DevSecOps%2BGitOps.gif" />
-
-#
+### we will see how to deploy an end to end three tier MERN stack application on EKS cluster.
 
 ## Tech stack used in this project:
 - GitHub (Code)
@@ -36,21 +23,6 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 - <b>ArgoCD application for deployment on EKS</b>
 ![image](https://github.com/user-attachments/assets/1ea9d486-656e-40f1-804d-2651efb54cf6)
 
-#
-> [!Important]
-> Below table helps you to navigate to the particular tool installation section fast.
-
-| Tech stack    | Installation |
-| -------- | ------- |
-| Jenkins Master | <a href="#Jenkins">Install and configure Jenkins</a>     |
-| eksctl | <a href="#EKS">Install eksctl</a>     |
-| Argocd | <a href="#Argo">Install and configure ArgoCD</a>     |
-| Jenkins-Worker Setup | <a href="#Jenkins-worker">Install and configure Jenkins Worker Node</a>     |
-| OWASP setup | <a href="#Owasp">Install and configure OWASP</a>     |
-| SonarQube | <a href="#Sonar">Install and configure SonarQube</a>     |
-| Email Notification Setup | <a href="#Mail">Email notification setup</a>     |
-| Monitoring | <a href="#Monitor">Prometheus and grafana setup using helm charts</a>
-| Clean Up | <a href="#Clean">Clean up</a>     |
 #
 
 ### Pre-requisites to implement this project:
